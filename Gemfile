@@ -3,10 +3,11 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.9'
 
-gem 'blorgh', path: '~/Programming-Projects/blorgh'
+# gem 'blorgh', github: 'francisco-rojas/rails_engine_learning'
+gem 'blorgh', path: '~/Programming-Projects/rails_engine_learning'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
-
+gem 'pry-rails'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
 
